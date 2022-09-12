@@ -1,0 +1,14 @@
+{
+    "name": "wallet_backend",
+    "version": "1.0.0",
+    "description": "Web3 wallet services",
+    "author": "Samuel Chan <sameulcychan@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1",
+        "nodemon": "^2.0.19"
+    }
+}
