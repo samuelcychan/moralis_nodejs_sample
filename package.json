@@ -9,6 +9,7 @@
     },
     "dependencies": {
         "express": "^4.16.1",
+        "moralis": "^2.4.0",
         "nodemon": "^2.0.19"
     }
 }
